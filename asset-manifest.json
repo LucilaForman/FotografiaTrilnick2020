@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FotografiaTrilnick2020/static/css/main.ebd04a46.chunk.css",
+    "main.js": "/FotografiaTrilnick2020/static/js/main.d6131e1e.chunk.js",
+    "main.js.map": "/FotografiaTrilnick2020/static/js/main.d6131e1e.chunk.js.map",
+    "runtime-main.js": "/FotografiaTrilnick2020/static/js/runtime-main.48d32645.js",
+    "runtime-main.js.map": "/FotografiaTrilnick2020/static/js/runtime-main.48d32645.js.map",
+    "static/js/2.e8c5b5c9.chunk.js": "/FotografiaTrilnick2020/static/js/2.e8c5b5c9.chunk.js",
+    "static/js/2.e8c5b5c9.chunk.js.map": "/FotografiaTrilnick2020/static/js/2.e8c5b5c9.chunk.js.map",
+    "index.html": "/FotografiaTrilnick2020/index.html",
+    "precache-manifest.3df04e200c7cf870edb680a77cc21c21.js": "/FotografiaTrilnick2020/precache-manifest.3df04e200c7cf870edb680a77cc21c21.js",
+    "service-worker.js": "/FotografiaTrilnick2020/service-worker.js",
+    "static/css/main.ebd04a46.chunk.css.map": "/FotografiaTrilnick2020/static/css/main.ebd04a46.chunk.css.map",
+    "static/js/2.e8c5b5c9.chunk.js.LICENSE.txt": "/FotografiaTrilnick2020/static/js/2.e8c5b5c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d32645.js",
+    "static/js/2.e8c5b5c9.chunk.js",
+    "static/css/main.ebd04a46.chunk.css",
+    "static/js/main.d6131e1e.chunk.js"
+  ]
+}
