@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FotografiaTrilnick2020/precache-manifest.3df04e200c7cf870edb680a77cc21c21.js"
+  "/FotografiaTrilnick2020/precache-manifest.b82644d20cc72926bf690197472ec508.js"
 );
 
 self.addEventListener('message', (event) => {
