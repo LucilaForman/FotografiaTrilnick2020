@@ -1,47 +1,63 @@
+import IMG5 from '../assets/5.jpg'
+import IMG7 from '../assets/7.jpg'
+import IMG8 from '../assets/8.jpg'
+import IMG9 from '../assets/9.jpg'
+import IMG10 from '../assets/10.jpg'
+import IMG18 from '../assets/18.jpg'
+import IMG12 from '../assets/12.jpg'
+import IMG13 from '../assets/13.jpg'
+import IMG14 from '../assets/14.jpg'
+import IMG17 from '../assets/17.jpg'
+
 export const photos = [
     {
-        src: "https://source.unsplash.com/2ShvY8Lf6l0/800x599",
+        src: IMG5,
         width: 4,
         height: 3
     },
     {
-        src: "https://source.unsplash.com/Dm-qxdynoEc/800x799",
-        width: 1,
-        height: 1
-    },
-    {
-        src: "https://source.unsplash.com/qDkso9nvCg0/600x799",
+        src: IMG7,
         width: 3,
         height: 4
     },
     {
-        src: "https://source.unsplash.com/iecJiKe_RNg/600x799",
-        width: 3,
-        height: 4
-    },
-    {
-        src: "https://source.unsplash.com/epcsn8Ed8kY/600x799",
-        width: 3,
-        height: 4
-    },
-    {
-        src: "https://source.unsplash.com/NQSWvyVRIJk/800x599",
+        src: IMG8,
         width: 4,
         height: 3
     },
     {
-        src: "https://source.unsplash.com/zh7GEuORbUw/600x799",
+        src: IMG9,
         width: 3,
         height: 4
     },
     {
-        src: "https://source.unsplash.com/PpOHJezOalU/800x599",
+        src: IMG10,
         width: 4,
         height: 3
     },
     {
-        src: "https://source.unsplash.com/I1ASdgphUH4/800x599",
+        src: IMG18,
+        width: 3,
+        height: 4
+    },
+    {
+        src: IMG17,
         width: 4,
         height: 3
+    },
+    {
+        src: IMG12,
+        width: 3,
+        height: 4
+    },
+    {
+        src: IMG13,
+        width: 3,
+        height: 4
+    },
+    {
+        src: IMG14,
+        width: 3,
+        height: 4
     }
 ];
